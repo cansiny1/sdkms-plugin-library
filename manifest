@@ -1,6 +1,6 @@
 [
     {
-        "name": "HD Wallet",
+        "name": "H1D Wallet",
         "versions": {
             "1.0": {
                 "path": "hd-wallet/plugin.lua",
